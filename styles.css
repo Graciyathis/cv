@@ -1,0 +1,18 @@
+h1{
+    color:antiquewhite;
+}
+h2{
+    color:blueviolet;
+}
+.note{
+    font-size: 20px;
+}
+#blue-text{
+    color:aqua;
+}
+li[value="3"]{
+    color:blue
+}
+*{
+    text-align:center;
+}
