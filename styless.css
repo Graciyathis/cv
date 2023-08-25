@@ -1,0 +1,36 @@
+h1{
+    color:aqua;
+    background-color: aliceblue;
+}
+#pixel{
+    font-size: 20px;
+}
+#pixel{
+    font-weight: bold;
+}
+#point{
+    font-size: 20pt;
+}
+#point{
+    font-weight: lighter;
+}
+#em{
+    font-size: 1em;
+}
+#em{
+    font-family: 'Times New Roman', Times, serif;
+}
+#rem{
+    font-size: 1rem;
+}
+#rem{
+    font-family: 'Courier New', Courier, monospace;
+}
+foooter{
+    font-size: 12pt;
+}
+html{font-size: xx-large;
+}
+*{
+    text-align: center;
+}
